@@ -3,7 +3,7 @@ const app = express();
 const cors = require("cors");
 const mongoose = require("mongoose");
 
-// schema
+// schema design start here
 
 const productSchema = mongoose.Schema(
   {
